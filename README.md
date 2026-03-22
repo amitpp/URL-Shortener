@@ -16,10 +16,10 @@
 
 **Jinja2Templates for UI integration**
 
-** Checks whether URL is reachable **
+**Checks whether URL is reachable**
 
-** Displays created at time, recently saved URLs and delete option on UI **
+**Displays created at time, recently saved URLs and delete option on UI**
 
-** Have switch to toggle dark theme and light theme **
+***Has switch to toggle dark theme and light theme***
 
 Supports upto 500 URLs
