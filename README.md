@@ -20,6 +20,9 @@
 
 **Displays created at time, recently saved URLs and delete option on UI**
 
-***Has switch to toggle dark theme and light theme***
+*Has switch to toggle dark theme and light theme*
 
 Supports upto 500 URLs
+
+**To Run Application:**
+*uvicorn main:app --reload --host 0.0.0.0 --port 8000*
